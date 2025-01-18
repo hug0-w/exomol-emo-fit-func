@@ -1,1 +1,1 @@
-## This work has not been captioned or labelled. The aim of the work was to produce an objective function given some parameters that reduced to increase the accuracy of my model. This was my first attempt as solving the problem, a more efficient and succesful version will be uploaded shortly.
+## EMO Function fit for CH 
